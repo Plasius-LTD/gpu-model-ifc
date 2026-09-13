@@ -1,6 +1,6 @@
 {
   "name": "@plasius/gpu-model-ifc",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "IFC geometry, building semantics, units, and canonical GPU model conversion contracts.",
   "type": "module",
   "sideEffects": false,
